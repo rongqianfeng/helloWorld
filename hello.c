@@ -4,7 +4,8 @@
 int main(void)
 
 {
-	printf("hello world!\n");
+	char *str"hello world!\n";
+	print(str);
 	return 0;
 }
 
