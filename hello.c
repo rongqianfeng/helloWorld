@@ -8,8 +8,3 @@ int main(void)
 	return 0;
 }
 
-int print(char *str)
-{
-	printf(str);
-	return 0;
-}
