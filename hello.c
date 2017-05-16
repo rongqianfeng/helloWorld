@@ -14,3 +14,8 @@ void print(char *str)
 	printf(str);
 	return;
 }
+
+void hello()
+{
+	return;
+}
